@@ -1,1 +1,3 @@
 # Tick-Tack-Toe
+
+This is a simple command-line implementation of the classic Tic Tac Toe game, written in Java. The game allows two players to take turns marking X and O on a 3x3 grid until one player wins by placing three of their marks in a row, column, or diagonal, or until the game ends in a draw. The game logic is implemented in the main Java file, and the game is played entirely in the console using keyboard input. This project is a fun and educational exercise for Java beginners who want to practice array manipulation, conditional statements, and loops, and is open for contribution and improvement.
